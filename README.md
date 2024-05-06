@@ -2,16 +2,6 @@ Rewarthe
 
 It is an app made on React-Native and is supported on multiple plateforms like ios and android.
 
-//The firebase provided below must be used before running the App
-apiKey: "AIzaSyBEvVJsxrOlMioXeOrmSw5NkUxzM2CchrA",
-  authDomain: "capstonerewarthe.firebaseapp.com",
-  projectId: "capstonerewarthe",
-  storageBucket: "capstonerewarthe.appspot.com",
-  messagingSenderId: "17188323678",
-  appId: "1:17188323678:web:74dc7034b2b417cf6acfcf",
-  measurementId: "G-H6HF8MT645",
-  databaseURL: "",
-
   Steps to Run:
   1  Install node dependencies using npm i in the root directory of the app in terminal.
   2  Type npx expo start in the root directory of the app of the terminal.
